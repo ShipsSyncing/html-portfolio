@@ -1,0 +1,37 @@
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: lightblue;
+}
+
+#yellow {
+    color: goldenrod;
+}
+
+#green {
+    color: green;
+}
+
+#pink {
+    color: pink;
+}
+
+#purple {
+    color: purple;
+}
+
+#orange {
+    color: orange;
+}
+
+.photo {
+    border: solid;
+}
